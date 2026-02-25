@@ -47,14 +47,9 @@ The model was trained on dual T4 GPUs and achieved a peak Validation Accuracy of
 ## 📂 Repository Structure
 * `notebook.ipynb`: The complete end-to-end training pipeline, including data loading, model definition, training loop, and visualization outputs.
 * `best_sota_model.pth`: The saved PyTorch weights for the highest-performing epoch (80% accuracy).
-* `inference.py`: Standalone script to test custom video/text pairs independently.
 * `images/`: Directory containing the performance graphs generated during training.
 
 
 ## 🗄️ Dataset
 
 Trained on the **Real-life Trial Data for Deception Detection (2016)** dataset, which consists of real court trial videos categorized into deceptive and truthful statements.
-
-```
-
-```
