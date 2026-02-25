@@ -46,9 +46,9 @@ The model was trained on dual T4 GPUs and achieved a peak Validation Accuracy of
 
 ## 📂 Repository Structure
 * `notebook.ipynb`: The complete end-to-end training pipeline, including data loading, model definition, training loop, and visualization outputs.
-* `best_sota_model.pth`: The saved PyTorch weights for the highest-performing epoch (80% accuracy).
 * `images/`: Directory containing the performance graphs generated during training.
 
+>The model is available at: [](https://huggingface.co/spaces/whyamanbhardwaj/truelies/blob/main/best_sota_model.pth)
 
 ## 🗄️ Dataset
 
